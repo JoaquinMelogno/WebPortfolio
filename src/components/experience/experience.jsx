@@ -62,6 +62,15 @@ const Experience = () => {
               </article>
           </div>
         </div>
+        <div className="experience__mobile">
+          <h3>Mobile  Development</h3>
+            <div className="experience__content">
+              <article className='experience__details'>
+                <BsCheck2Circle className='experience-icon'/>
+                <h4>Flutter</h4>
+              </article>
+            </div>
+          </div>
       </div>
     </section>
   )

@@ -23,7 +23,6 @@
     margin-bottom: 2rem;
     color: var(--color-primary);
 }
-
 .experience__content{
     display: grid;
     grid-template-columns: 1fr 1fr;
